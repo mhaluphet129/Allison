@@ -1,3 +1,7 @@
+body{
+    background: linear-gradient(45deg,blue,white,skyblue);
+}
+
 .title{
     color:#007bff;
 }
@@ -8,11 +12,6 @@
 
 .topBtn{
     margin-top:15px;
-}
-
-form{
-    border: 1px solid #000;
-    border-radius: 20px;
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
