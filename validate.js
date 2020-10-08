@@ -18,5 +18,5 @@ $(document).ready(()=>{
      }
 
 
-     $(".login-button").click(validate);
+     $("#register").click(validate);
 })
