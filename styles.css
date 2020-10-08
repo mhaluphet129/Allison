@@ -4,6 +4,11 @@ body{
     height: 100vh;
 }
 
+form{
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
 .title{
     color:#007bff;
 }
