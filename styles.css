@@ -10,6 +10,10 @@
     margin-top:15px;
 }
 
+.body{
+    border-radius: 20px;
+}
+
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: #ccc !important;
     opacity: 1; /* Firefox */
