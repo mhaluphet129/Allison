@@ -19,6 +19,7 @@ form{
 
 .redir{
     float: right;
+    width: 40%;
 }
 
 .mgTp{
@@ -27,6 +28,7 @@ form{
 
 .topBtn{
     margin-top:15px;
+    width: 40%;
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
