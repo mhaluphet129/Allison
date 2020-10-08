@@ -5,12 +5,17 @@ body{
 }
 
 form{
-    border: 1px solid #000;
+    border: 2px solid #fff;
     border-radius: 10px;
+    background: rgba(200,200,200,0.65);
 }
 
 .title{
     color:#007bff;
+}
+
+.redir{
+    float: right;
 }
 
 .mgTp{
