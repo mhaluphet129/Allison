@@ -1,5 +1,6 @@
 body{
     background: linear-gradient(45deg, pink, gray, white);
+    background-repeat: none;
     width: 100vw;
     height: 100vh;
 }
