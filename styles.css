@@ -44,3 +44,10 @@ form{
 ::-ms-input-placeholder { /* Microsoft Edge */
     color: #ccc !important;
 }
+
+.container{
+    background: linear-gradient(45deg, pink, gray, white);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
