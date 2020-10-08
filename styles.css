@@ -1,5 +1,7 @@
 body{
-    background: black;
+    background: linear-gradient(45deg, blue, indigo, white);
+    width: 100vw;
+    height: 100vh;
 }
 
 .title{
