@@ -13,6 +13,7 @@ form{
 .title{
     color:#007bff;
     text-align: center;
+    float: left;
 }
 
 .redir{
