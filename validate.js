@@ -1,6 +1,6 @@
 let name, username, email, password, confirm;
 
-let init = () =>{
+function init(){
     name = $("#name").val();
     email = $("#email").val();
     username = $("#username").val();
@@ -8,7 +8,7 @@ let init = () =>{
     confirm = $("#confirm").val();
 }
 
-let validate = () => {
+function validate(){
     alert(name+" "+email+" "+username+" "+password+" "+confirm);
 }
 
